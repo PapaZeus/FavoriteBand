@@ -1,5 +1,6 @@
 img {
   float: left;
+  padding: 20px;
 }
 
 .wide {
@@ -11,6 +12,9 @@ img {
   float: right;
   width: 30%;
   background-color: skyblue;
+  margin: 10px;
+  border: solid black;
+  padding: 20px;
 }
 
 .left {
